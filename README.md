@@ -9,5 +9,10 @@
 API : https://developer.smartable.ai/
 
 ## 참고
-the Smartable AI COVID19 API (https://developer.smartable.ai/) 를 만든 scott에게 한국 기사 추가요청 하여 한국 외신 기사 획득
-(처음에는 한국국가 기사가 없었음)
+the Smartable AI COVID19 API (https://developer.smartable.ai/) 개발자 scott에게 한국 기사 추가요청 하여 한국 외신 기사 획득.
+
+
+..after
+
+6개월 동안 잠잠하다가 smartable 측의 갑작스러운 변동으로 client id를 비롯한 몇몇 수정이 필요하게 되어서 급한대로 일단 통계 부분만 수정함, 
+추후 기사 부분도 수정할 예정.
